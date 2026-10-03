@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Nazir
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning back-end
+- 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on any available front-end project
 - 📫 How to reach me on @mohnazir25@gmail.com
 
